@@ -1,8 +1,8 @@
 {
   "accentColor": "#ff4b00",
-  "cssTheme": "",
+  "cssTheme": "Dracula for Obsidian",
   "theme": "obsidian",
-  "baseFontSize": 18,
+  "baseFontSize": 10,
   "interfaceFontFamily": "Lucida Sans Unicode",
   "textFontFamily": "Lucida Sans Unicode,Gill Sans",
   "monospaceFontFamily": "DIN 2014"
